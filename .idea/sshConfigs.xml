@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig connectionConfig="{&quot;proxyParams&quot;:{&quot;proxyHost&quot;:&quot;127.0.0.1&quot;,&quot;proxyPort&quot;:10808,&quot;proxyType&quot;:&quot;SOCKS&quot;}}" host="202.117.43.206" id="154172f4-5eb2-439c-998a-8a962c3d5472" keyPath="D:\杂事\ssh\206\wjh" port="1526" nameFormat="DESCRIPTIVE" username="wjh" useOpenSSHConfig="true" />
-    </configs>
-  </component>
-</project>
